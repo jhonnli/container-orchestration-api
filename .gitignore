@@ -1,0 +1,5 @@
+.idea
+vendor
+.exe
+Gopkg.lock
+.vendor-new
